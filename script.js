@@ -10,7 +10,7 @@ recipeCloseBtn.addEventListener('click', () => {
     mealDetailsContent.parentElement.classList.remove('showRecipe');
 });
 
-// Replace 'YOUR_SPOONACULAR_API_KEY' with your actual Spoonacular API key
+//  API key
 const apiKey = '91fdc9e88999470780cac7019e93a900';
 
 // get meal list that matches with the ingredients
